@@ -1,20 +1,34 @@
-# Z-Kiro Desktop Release
+# Kiro Gateway Release
 
-> 下载 Z-Kiro 账号管理工具的各平台安装包。
+> 🚀 下载 Kiro Gateway 客户端管理 + 反代工具的各平台安装包。
 
-## 下载方式
+## ✨ 功能特性
 
-**Windows:**
-- `Z-Kiro Setup *.exe` - 安装版（推荐）
-- `Z-Kiro *.exe` - 便携版
+- 🔑 **客户端管理** - 账号上号、刷新、余额/状态/有效期显示
+- 📦 **批量导入** - 支持 JSON 或一行一个 Refresh Token
+- 📂 **分组管理** - 按分组管理账号，灵活高效
+- 🔄 **定时刷新** - 自动刷新 Token，保持账号活跃
+- 🔒 **模型锁定** - 锁定指定模型，监控自动切换
+- 🖥️ **机器码管理** - 备份、恢复、重置设备标识
+- 🌐 **反代服务** - 来自 kiro.rs 优化，可指定分组反代，随用随启
+- 🛡️ **系统托盘** - 关闭最小化到托盘，后台持续运行
 
-**macOS:**
-- `Z-Kiro-*-universal.dmg` - 安装包（支持 Intel 和 Apple Silicon）
+## 📥 下载方式
 
-**Linux:**
-- `Z-Kiro-*.AppImage` - 通用版（所有发行版）
+| 平台 | 文件名 | 说明 |
+|---|---|---|
+| **Windows** | `kiro-gateway_*.exe` | 安装版 |
+| **macOS** | `kiro-gateway_*_aarch64.dmg` | Apple Silicon (M1/M2/M3) |
+| **macOS** | `kiro-gateway_*_x64.dmg` | Intel Mac |
+| **Linux** | `kiro-gateway_*.deb` | Debian/Ubuntu |
 
-## 注意事项
-- 软件为私有源码，不对外公开，只提供打包好的安装包。
-- 如需获取新版本，请关注 Release 页面或应用内“检查更新”提示（计划中）。
-- 有问题可在 Issue 区提交反馈。
+## ⚠️ 注意事项
+
+- 软件为私有源码，不对外公开，只提供打包好的安装包
+- 新版本请关注 [Releases](https://github.com/Zheng-up/KiroGateway-release/releases) 页面
+- Bug 反馈请在 Issues 区提交，或加入交流群
+
+## 🔗 相关链接
+
+- 📖 [使用文档](https://github.com/Zheng-up/Kiro-Gateway)
+- 💬 问题反馈请查看应用内"关于"页面加群
