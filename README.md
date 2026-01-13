@@ -2,6 +2,12 @@
 
 > 🚀 下载 Kiro Gateway 客户端管理 + 反代工具的各平台安装包。
 
+## 📷 应用截图
+
+<img width="1002" height="672" alt="image" src="https://github.com/user-attachments/assets/eb677319-df77-427b-9217-3c2bd888856e" />
+
+
+
 ## ✨ 功能特性
 
 - 🔑 **客户端管理** - 账号上号、刷新、余额/状态/有效期显示
@@ -28,7 +34,14 @@
 - 新版本请关注 [Releases](https://github.com/Zheng-up/KiroGateway-release/releases) 页面
 - Bug 反馈请在 Issues 区提交，或加入交流群
 
+## 💬 交流群
+
+<img width="233" height="303" alt="image" src="https://github.com/user-attachments/assets/0658d5dd-782d-422b-b92f-f1d63645685f" />
+
+
+> 扫码加入交流群，获取最新动态和技术支持
+
 ## 🔗 相关链接
 
 - 📖 [使用文档](https://github.com/Zheng-up/Kiro-Gateway)
-- 💬 问题反馈请查看应用内"关于"页面加群
+- 💬 问题反馈请查看应用内"关于"页面
