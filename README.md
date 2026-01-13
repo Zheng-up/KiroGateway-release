@@ -43,5 +43,5 @@
 
 ## 🔗 相关链接
 
-- 📖 [使用文档](https://github.com/Zheng-up/Kiro-Gateway)
+- 📖 [使用文档](https://docs.qq.com/aio/DT0ZvQm1kc2ZYZUZO)
 - 💬 问题反馈请查看应用内"关于"页面
